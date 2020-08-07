@@ -7,7 +7,7 @@ function whisper(string){
 }
 
 function logShout(string){
-  sting.toUpperCase()
+  string.toUpperCase()
   console.log(string)
 }
 
